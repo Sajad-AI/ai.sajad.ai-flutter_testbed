@@ -1,6 +1,6 @@
 {
-    "name": "github_pages_test",
-    "short_name": "github_pages_test",
+    "name": "test_firebase",
+    "short_name": "test_firebase",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
