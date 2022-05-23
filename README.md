@@ -1,4 +1,4 @@
-# test_firebase
+# github_pages_test
 
 A new Flutter project.
 
